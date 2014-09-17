@@ -1,6 +1,6 @@
 Something Cool
-and awesome!
-third line
+completely change this line
 4
 5
 6
+hello fork
